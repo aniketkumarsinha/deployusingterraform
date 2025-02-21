@@ -1,2 +1,2 @@
 # deployusingterraform
-Deploy Azure Infrastructure using Terraform and GitHub Actions
+Deploy Azure Infrastructure using Terraform and GitHub Actions.
