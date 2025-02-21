@@ -1,4 +1,4 @@
 resource_group_name = "terraformrg"
-location = "centraindia"
+location = "centralindia"
 
 stg_name = "storageaccounttf"
